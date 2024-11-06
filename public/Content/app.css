@@ -1,0 +1,197 @@
+
+a {
+  color: #00B7FF;
+}
+.col-2{
+  width: 12.5% !important;
+}
+
+/* <!important> --- priortize this style over bootstrap style*/ 
+
+
+header,footer{
+  color: white;
+  position: fixed;
+  width: 100%;
+  margin-top: -10px;
+}
+.navBar{
+  
+  text-align: left;
+  width: 100%;
+  padding-top: 5px;
+  padding-bottom: 15px;
+  
+}
+
+.bar1{
+  padding-left: 40px;
+}
+
+.bar1 img {
+width: 4%;
+height: 1%;
+float: left;
+border-radius: 40%;
+}
+
+.bar1 a{
+  
+  color: white;
+  
+  padding: 5px 15px 5px 15px;
+  font-size: 20pt;
+  text-decoration: none;
+
+}
+#home {
+  padding-top: 8%;
+  width: 100%;
+}
+.home img{
+  border-radius: 5%;
+  width: 100%;
+}
+
+.home h1{
+  color: black;
+  font-size: 22pt;
+  margin-left: 30%;
+}
+
+
+#projects{
+  height: 520px;
+  background-color: hsla(223, 37%, 96%, 0.836);
+  width: 100%;
+  font-size: 18px;
+  margin-top: 3%;
+  border-radius: 10%;
+}
+
+.box1 {
+  height: 40%;
+  width: 35%;
+  float: left;
+  background-color:black;
+  margin: 13% 4% 4% 4%;
+  /* margin-top: auto;
+  margin-bottom: auto; */
+  display: block;
+  border-radius: 10%;
+}   
+
+.box1 p{
+  margin: 5%;
+  color: white;
+  font-size: 1rem;
+}
+      
+
+
+.box2 {
+  height: 85%;
+  width: 50%;
+  float: right;
+  margin-top: 3%;
+  margin-right: 3%;
+}
+      
+.box2 img{
+
+  border-radius: 5%;
+}
+#about{
+  height: 50%;
+  width: 100%;
+  background-color: hsla(223, 37%, 96%, 0.836);
+  border-radius: 10%;
+}
+.aboutVid{
+  width: 50%;
+  height: 60%;
+  
+  float: left;
+  margin: 2%;
+  margin-top: 9%;
+
+}
+
+#myimg {
+  
+  height: 100%;
+  width: 100%;
+  border-radius: 6%;
+}
+
+.about{
+  float: right;
+  width:36%;
+  height: 40%;
+  background-color: black;
+  margin: 15px;
+  margin-top: 10%;
+  border-radius: 10%;
+}
+.about p{
+  margin: 4% 2% 2% 2%;
+  font-size: 90%;
+  color: white;
+}
+#contacts{
+  margin-top: 5%;
+  margin-bottom: 6%;
+}
+.contacts{
+  background-color: lightgray;
+  
+  width: 50%;
+  height: 90%;
+  border-radius: 2%;
+  margin: auto;
+  border: black 2px solid;
+
+}
+.contacts h1{
+  margin-left: 30%;
+  color: black;
+}
+.contacts input{
+  width: 90%;
+  padding: 2%;
+  margin: 3% 1% 1% 3%;
+  border: 1px solid black;
+  border-radius: 5px;
+  
+}
+.contacts label{
+  margin-left: 4%;
+  color: black;
+
+}
+.contacts textarea{
+  margin-left: 4%;
+}
+head{
+  color: black
+}
+html{
+  background-color: white;
+  /* margin-top: -26px; */
+  
+}
+
+main{
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+  padding-top: 8%;
+  display: block;
+  
+}
+
+.clear{
+clear: both;
+}
+
